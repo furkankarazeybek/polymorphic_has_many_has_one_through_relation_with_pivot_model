@@ -1,0 +1,17 @@
+//Project birçok user'a sahip, ve user birçok task'a sahip.
+
+Project
+   id
+User 
+   id
+   project_id
+
+
+Task 
+    id
+    user_id
+
+VİDEO: https://www.youtube.com/watch?v=UMRaECFcvCM&list=PL1TrjkMQ8UbVyIT0cDX-54gN5tunWZvaI&index=7
+
+
+  
